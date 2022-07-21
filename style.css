@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;600;700&display=swap');
+
+
 /*--- header content ---*/
+
+
 .ep-logo {
   height: 75px;
   width: 300px;
@@ -38,7 +42,7 @@
 body {
   background-color: #ebebeb;
 }
-h2 {
+h2 h3 {
   padding-top: 40px;
   text-align: center;
   font-family: 'Rajdhani', sans-serif;
@@ -64,6 +68,7 @@ ul {
 p {
   font-family: 'Rajdhani', sans-serif;
   text-align: center;
+  font-size: 18px;
   
 }
 
