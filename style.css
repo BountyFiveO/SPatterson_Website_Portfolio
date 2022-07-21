@@ -71,6 +71,12 @@ ul {
     text-align: left;
 }
 
+ol {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
 p {
   font-family: 'Rajdhani', sans-serif;
   text-align: center;
