@@ -42,11 +42,17 @@
 body {
   background-color: #ebebeb;
 }
-h2 h3 {
+h2 {
   padding-top: 40px;
   text-align: center;
   font-family: 'Rajdhani', sans-serif;
   
+}
+
+h3 {
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Rajdhani', sans-serif;
 }
 
 a:link { 
@@ -68,7 +74,7 @@ ul {
 p {
   font-family: 'Rajdhani', sans-serif;
   text-align: center;
-  font-size: 18px;
+  font-size: 14px;
   
 }
 
