@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;600;700&display=swap');
+/*--- header content ---*/
+.ep-logo {
+  height: 75px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.header-bg {
+  height: 100px;
+  width: 100%;
+  background-color: #313030;
+  box-shadow: black 2px 2px 8px;
+}
+
+.under-logo-text {
+  color: white;
+  text-align: center;
+  padding: 5px, 0px, 2px, 0px;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.sp-image {
+  border-radius: 12% !important;
+  height: 300px;
+  width: 300px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  box-shadow: black 1px 8px 10px;
+}
+
+/*--- main content ---*/
+
+body {
+  background-color: #ebebeb;
+}
+h2 {
+  padding-top: 40px;
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  
+}
+
+a:link { 
+  color: blue !important;
+}
+a:visited {
+  color: red;
+}
+a:hover { 
+  color: #00FFAB !important;
+}
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+p {
+  font-family: 'Rajdhani', sans-serif;
+  text-align: center;
+  
+}
+
+hr {
+  margin-top: 60px;
+  width: 800px;
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #CCC, transparent); 
+}
+
+
+
+.github-button {
+  height: 35px;
+  width: 75px;
+
+}
+
+.linkedin-button {
+  height: 35px;
+  width: 90px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.slack-button {
+  height: 35px;
+  width: 75px;
+  margin-right: 30px;
+}
+
+.gmail-logo {
+  height: 25px;
+  width: 35px;
+  margin-top: 5px;
+}
+#contact-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/*--- footer content --- */
+.footer-container {
+  display: flex;
+  justify-content: center;
+  background-color: #313030;
+}
+
+.footer-text {
+  color: white;
+}
