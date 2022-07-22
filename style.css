@@ -42,54 +42,72 @@
 body {
   background-color: #ebebeb;
 }
+
+
 h2 {
-  padding-top: 40px;
+  padding-top: 10px;
   text-align: center;
   font-family: 'Rajdhani', sans-serif;
-  
+  font-weight: 600;
+
+}
+
+h1,
+h3,
+h4 {
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
 }
 
 h3 {
-  text-align: center;
-  padding-top: 40px;
-  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
 }
 
-a:link { 
+h4 {
+  font-weight: 400;
+}
+
+a:link {
   color: blue !important;
 }
+
 a:visited {
   color: red;
 }
-a:hover { 
+
+a:hover {
   color: #00FFAB !important;
 }
 
 ul {
-    display: table; 
-    margin: 0 auto;
-    text-align: left;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
 }
 
 ol {
-    display: table; 
-    margin: 0 auto;
-    text-align: left;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
 }
 
 p {
   font-family: 'Rajdhani', sans-serif;
   text-align: center;
   font-size: 14px;
-  
+
 }
 
 hr {
-  margin-top: 60px;
+  margin-top: 20px;
   width: 800px;
   border: 0;
   height: 2px;
-  background-image: linear-gradient(to right, transparent, #CCC, transparent); 
+  background-image: linear-gradient(to right, transparent, #CCC, transparent);
 }
 
 
@@ -118,6 +136,7 @@ hr {
   width: 35px;
   margin-top: 5px;
 }
+
 #contact-buttons {
   display: flex;
   justify-content: center;
