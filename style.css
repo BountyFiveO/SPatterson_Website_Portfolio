@@ -74,11 +74,11 @@ h4 {
 /* default link color */
 
 a:link {
-  color: #750000 !important;
+  color: #ff0000 !important;
 }
 
 a:visited {
-  color: #750000 !important;
+  color: #00ffa2 !important;
 }
 
 a:hover {
