@@ -45,21 +45,15 @@ body {
   background-color: #ebebeb;
 }
 
-.section-link {
+.section-link .about-link {
   color: blue;
 }
 
-.section-link:hover {
+.section-link:hover .about-link:hover {
   color: black;
 }
 
-.about-link {
-  color: blue;
-}
 
-.about-link:hover {
-  color: black;
-}
 
 /* header 2 style */
 h2 {
