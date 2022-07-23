@@ -45,6 +45,22 @@ body {
   background-color: #ebebeb;
 }
 
+.section-link {
+  color: blue;
+}
+
+.section-link:hover {
+  color: black;
+}
+
+.about-link {
+  color: blue;
+}
+
+.about-link:hover {
+  color: black;
+}
+
 /* header 2 style */
 h2 {
   padding-top: 10px;
@@ -73,11 +89,6 @@ h3 {
 
 a:link {
   color: #00FFAB !important;
-}
-
-/* Link color after you visited link */
-a:visited {
-  color: red;
 }
 
 /* link color when you hover over link with mouse curser */
