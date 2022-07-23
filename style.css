@@ -22,7 +22,8 @@
 .under-logo-text {
   color: white;
   text-align: center;
-  padding: 5px, 0, 2px, 0;
+  padding-top: 5px;
+  padding-bottom: 2px;
   font-family: 'Rajdhani', sans-serif;
 }
 
