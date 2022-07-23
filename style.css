@@ -73,8 +73,13 @@ h4 {
 
 /* default link color */
 
-a:link a:visited {
+a:link {
   color: red !important;
+}
+
+a:visited {
+  color: red !important;
+
 }
 
 /* link color when you hover over link with mouse curser */
