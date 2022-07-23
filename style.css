@@ -81,12 +81,11 @@ a:visited {
   color: #ff0000 !important;
 }
 
+/* link color when you hover over link with mouse curser */
+
 a:hover {
   color: green !important;
 }
-
-/* link color when you hover over link with mouse curser */
-
 
 /* unordered list style */
 ul {
