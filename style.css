@@ -77,13 +77,12 @@ a:link {
   color: #750000 !important;
 }
 
-a:hover {
-  color: green !important;
-}
-
 a:visited {
   color: #750000 !important;
+}
 
+a:hover {
+  color: green !important;
 }
 
 /* link color when you hover over link with mouse curser */
