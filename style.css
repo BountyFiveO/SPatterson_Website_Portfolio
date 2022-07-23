@@ -1,9 +1,7 @@
-/*--- import font family Rajdhani ---*/
-
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;600;700&display=swap');
 
 
-/*--- header content styles ---*/
+/*--- header content ---*/
 
 
 .ep-logo {
@@ -45,17 +43,7 @@ body {
   background-color: #ebebeb;
 }
 
-.section-link .about-link {
-  color: blue !important;
-}
 
-.section-link:hover .about-link:hover {
-  color: black !important;
-}
-
-
-
-/* header 2 style */
 h2 {
   padding-top: 10px;
   text-align: center;
@@ -64,9 +52,9 @@ h2 {
 
 }
 
-/*headers 1 and 3 styles */
 h1,
-h3 {
+h3,
+h4 {
   text-align: center;
   font-family: 'Rajdhani', sans-serif;
 }
@@ -79,15 +67,23 @@ h3 {
   font-weight: 600;
 }
 
+h4 {
+  font-weight: 400;
+}
+
 /* default link color */
 
 a:link {
-  color: #00FFAB;
+  color: red !important;
+}
+
+a:visited {
+  color: red !important;
 }
 
 /* link color when you hover over link with mouse curser */
 a:hover {
-  color: white;
+  color: blue !important;
 }
 
 /* unordered list style */
@@ -155,7 +151,7 @@ hr {
   margin-bottom: 20px;
 }
 
-/*--- footer style --- */
+/*--- footer content --- */
 
 .footer-container {
   display: flex;
