@@ -77,15 +77,17 @@ a:link {
   color: blue !important;
 }
 
+a:hover {
+  color: red !important;
+}
+
 a:visited {
   color: #750000 !important;
 
 }
 
 /* link color when you hover over link with mouse curser */
-a:hover {
-  color: red !important;
-}
+
 
 /* unordered list style */
 ul {
