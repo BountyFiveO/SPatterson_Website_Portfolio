@@ -84,7 +84,7 @@ a:visited {
 
 /* link color when you hover over link with mouse curser */
 a:hover {
-  color: blue !important;
+  color: red !important;
 }
 
 /* unordered list style */
