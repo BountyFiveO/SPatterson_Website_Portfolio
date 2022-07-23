@@ -46,11 +46,11 @@ body {
 }
 
 .section-link .about-link {
-  color: blue;
+  color: blue !important;
 }
 
 .section-link:hover .about-link:hover {
-  color: black;
+  color: black !important;
 }
 
 
@@ -82,12 +82,12 @@ h3 {
 /* default link color */
 
 a:link {
-  color: #00FFAB !important;
+  color: #00FFAB;
 }
 
 /* link color when you hover over link with mouse curser */
 a:hover {
-  color: white !important;
+  color: white;
 }
 
 /* unordered list style */
