@@ -26,12 +26,22 @@
   padding-bottom: 2px;
   font-family: 'Rajdhani', sans-serif;
 }
+.top-nav {
+  text-align: center;
+  display: inline;
+}
+
+.home-button {
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+
+}
 
 .sp-image {
   border-radius: 12% !important;
   height: 300px;
   width: 300px;
-  margin-top: 40px;
+  margin-top: 15px;
   margin-left: auto;
   margin-right: auto;
   display: block;
